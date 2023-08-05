@@ -1,8 +1,8 @@
 # Retrieval-Chatbot
 The retrieval chatbot is created using the NLTK
 
-#Description
-This is implemented using the NLTK (Natural Language Tool Kit). Here the data is given as a file. so when the user asks anything the chatbot will find a related word in the data file and will return a sentence. If the user provides any input which doesn't match any of the words in the data file then the bot will return a error-predefined sentence. 
+Description
+This repository contains a retrieval chatbot implemented using the NLTK (Natural Language Tool Kit). The chatbot utilizes a data file as its knowledge base. When the user asks a question or provides input, the chatbot searches for related words in the data file and responds with an appropriate sentence. If the user's input does not match any of the words in the data file, the chatbot will return an error-predefined sentence. 
 
 Here tokenization method is used to word_tokenize and sentence_tokenize.
 
